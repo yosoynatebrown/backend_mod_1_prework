@@ -54,7 +54,7 @@ Visit the [Turing Terminal](https://learn-terminal.turing.io/) and read through 
 
 In the following section, you will get a little practice using `touch` and `mkdir` to create files and directories, and `ls` and `cd` to navigate the directory structure and check-in.
 
-#### Terminal Practice
+#### Terminal Practice ✅
 
 👩‍💻 Use `mkdir` and `touch` to create the directories/files in the structure illustrated below:
 

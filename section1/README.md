@@ -32,23 +32,23 @@ Here's what we ask you do:
 - interpolation
 
 
-## Part A Super Learner Habits
+## Part A Super Learner Habits ✅
 
 Read [this article](https://pubs.ppai.org/pc-today/six-habits-of-super-learners/) about the habits of Super Learners. Reflect on this - what do you already do? Does this make you want to do anything new or different as you begin this learning journey? Jot down your notes now, and we will ask you to share some reflections with your small group at the end of this section.
 
-## Part B Terminal
+## Part B Terminal ✅
 
 You will likely spend the majority of your time in Module 1 in either the Terminal or your text editor (Atom). When you're new to programming, the terminal can seem like a scary place, but it has some advantages over other means of interacting with your computer. Perhaps the greatest advantage is that it allows programmers to build tools that they can share with each other without going through the process of creating a graphical user interface. This makes it easy to share code quickly so that it can be used in multiple projects.
 
 You already have had some exposure to the terminal in [Mod 0, Session 2: Terminal and Command Line](http://mod0.turing.io/session2/#terminal-and-command-line). Let's get a little more practice!
 
-### Explore and Practice
+### Explore and Practice ✅
 
 Visit the [Turing Terminal](https://learn-terminal.turing.io/) and read through the Learn section as needed. Explore the Playground as needed.
 
 👩‍💻 Complete all three Challenges.
 
-### Making Things, Navigating
+### Making Things, Navigating ✅
 
 #### Commands
 

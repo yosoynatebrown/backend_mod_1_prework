@@ -12,21 +12,34 @@ print_name
 
 # Write a method that takes a name as an argument and prints it:
 def print_name(name)
-  # YOUR CODE HERE
+  p name
 end
 
 print_name("Albus Dumbledore")
 
-# Write a method that takes in 2 numbers as arguments and prints 
+# Write a method that takes in 2 numbers as arguments and prints
 # their sum. Then call your method three times with different arguments passed in:
-# YOUR CODE HERE
 
-# Write a method that takes in two strings as arguments and prints 
-# a concatenation of those two strings. Example: The arguments could be 
-# (man, woman) and the end result might output: "When Harry Met Sally".  
-# Then call your method three times with different arguments passed in. 
+def add_two(a, b)
+  p a + b
+  end
 
+add_two(100, 200)
+add_two(-70, 54)
+add_two(2, -304)
 
+# Write a method that takes in two strings as arguments and prints
+# a concatenation of those two strings. Example: The arguments could be
+# (man, woman) and the end result might output: "When Harry Met Sally".
+# Then call your method three times with different arguments passed in.
+
+def james_bondify(first_name, last_name)
+  p "The name is " + last_name + ", " + first_name + " " + last_name + "."
+end
+
+james_bondify("James", "Bond")
+james_bondify("Nate", "Brown")
+james_bondify("Big", "Bird")
 #-------------------
 # PART 3: Naming is Hard
 #-------------------
@@ -39,3 +52,9 @@ print_name("Albus Dumbledore")
 
 # EXPLAIN:
 
+# add_two() seemed more descriptive than just add().
+# Originally james_bondify was just james_bond, but adding -ify made it more clear that the names were being used for something.
+
+# I just did a and b for the integers because it's a pretty self-explanatory method already.
+
+#first_name and last_name seemed like more descriptive argument names than something shorter, like (first, last).

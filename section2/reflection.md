@@ -22,9 +22,9 @@ To create a branch in your code that leads one direction or another. It makes it
 
 1. What is the Ruby syntax for an if statement?
 
-if true 
- [blank] 
-end 
+if true  
+ [blank]  
+end  
 
 1. How do you add multiple conditions to an if statement?
 

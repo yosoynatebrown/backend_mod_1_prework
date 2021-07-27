@@ -51,6 +51,7 @@ To test if something is nil as in the .nil? method mentioned above.
 A way to avoid repeating yourself/copying and pasting. You define a code snippet that does a particular thing, then "call" that snippet or "method" rather than typing the whole snippet out again. It also lets you create variables of a limited scope that won't affect the rest of the program.
 
 1. Create a method named `hello` that will print `"Sam I am"`.
+
 def hello()  
   p "Sam I am"  
 end  

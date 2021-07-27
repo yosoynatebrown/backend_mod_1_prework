@@ -11,7 +11,7 @@ I’m a 'wait too long' kind of person. I feel like struggling with Google means
 A statement that evaluates to true or false.
 
 
-fingers == 10 
+fingers == 10  
 variable.nil?  
 num_of_trees >= 100 
 

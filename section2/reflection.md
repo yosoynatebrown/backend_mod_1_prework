@@ -11,9 +11,9 @@ I’m a 'wait too long' kind of person. I feel like struggling with Google means
 A statement that evaluates to true or false.
 
 
-fingers == 10
-variable.nil?
-num_of_trees >= 100
+fingers == 10  
+variable.nil?  
+num_of_trees >= 100 
 
 
 1. Why might you want to use an if-statement?
@@ -22,9 +22,9 @@ To create a branch in your code that leads one direction or another. It makes it
 
 1. What is the Ruby syntax for an if statement?
 
-if true
- [blank]
-end
+if true  
+ [blank]  
+end  
 
 1. How do you add multiple conditions to an if statement?
 
@@ -32,13 +32,13 @@ Use **&& (AND)** or **|| (OR)** to test if multiple conditions are true/false.
 
 1. Provide an example of the Ruby syntax for an if/elsif/else statement:
 
-if true
-  [blank]
-elsif false
-  [something else]
-else
-  [a third thing]
-end
+if true  
+  [blank]  
+elsif false  
+  [something else]  
+else  
+  [a third thing]  
+end  
 
 1. Other than an if-statement, can you think of any other ways we might want to use a conditional statement?
 
@@ -51,15 +51,16 @@ To test if something is nil as in the .nil? method mentioned above.
 A way to avoid repeating yourself/copying and pasting. You define a code snippet that does a particular thing, then "call" that snippet or "method" rather than typing the whole snippet out again. It also lets you create variables of a limited scope that won't affect the rest of the program.
 
 1. Create a method named `hello` that will print `"Sam I am"`.
-def hello()
-  p "Sam I am"
-end
+
+def hello()  
+  p "Sam I am"  
+end  
 
 1. Create a method named `hello_someone` that takes an argument of `name` and prints `"#{name} I am"`.
 
-def hello_someone(name)
-  p "#{name} I am"
-end
+def hello_someone(name)  
+  p "#{name} I am"  
+end  
 
 1. How would you call or execute the method that you created above?
 

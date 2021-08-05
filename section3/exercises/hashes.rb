@@ -117,19 +117,19 @@ puts posts[0]
 emails = [
 { 'sender' => 'jimmyfallon@gmail.com',
   'sendee' => 'conanobrien@gmail.com',
-  'subject' => 'found your old hole punch in my desk',
+  'subject' => 'found your hole punch in my desk',
   'time' => '03:17 AM',
   'bcc' => 'donations@smithsonian.org'
 },
 { 'sender' => 'therealjohnmayer@gmail.com',
   'sendee' => 'johnmayer@gmail.com',
-  'subject' => 'gimme that email address. NOW.',
+  'subject' => 'gimme back my email address. NOW.',
   'time' => '12:45 PM',
   'bcc' => 'kneecap_guy@themafia.org'
 },
 { 'sender' => 'jack@gmail.com',
   'sendee' => 'john@gmail.com',
-  'subject' => 'Gmail early adopter meetup in Cincinnati',
+  'subject' => 'Gmail early adopter meetup',
   'time' => '05:32 AM',
   'bcc' => 'tom@gmail.com'
 }

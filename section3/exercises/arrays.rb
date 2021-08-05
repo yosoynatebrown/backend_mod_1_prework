@@ -16,16 +16,16 @@
 # Store the array in a variable.
 animals = ["Zebra", "Giraffe", "Elephant"];
 
-print animals
+p animals
 
 # EXAMPLE: Write code below that will print "Zebra" from the animals array
 # YOUR CODE HERE
-print animals[0]
+p animals[0]
 
 # YOU DO: Write code below that will print the number of elements in array of
 # animals from above.
 
-puts "\n" + animals.count.to_s
+puts animals.count.to_s
 
 # YOU DO: Write code that will reassign the last item in the animals
 # array to "Gorilla"
@@ -34,7 +34,8 @@ animals[-1] = "Gorilla"
 
 # YOU DO: Write code that will add a new animal (type of your choice) to position 3.
 
-animals.push("Jackalope")
+animals[3] = "Jackalope"
+
 
 # YOU DO: Write code that will print the String "Elephant" in the animals array
 

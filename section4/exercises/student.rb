@@ -1,8 +1,8 @@
 class Student
 attr_accessor :first_name, :last_name, :primary_phone_number
 
-def introduction(target)
-  puts "Hi #{target}! My name is #{first_name}"
+def introduction(person)
+  puts "Hi #{person}! My name is #{first_name}"
 end
 def fave_number
   7

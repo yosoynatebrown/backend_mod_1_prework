@@ -1,12 +1,12 @@
-print "How old are you? "
+p "How old are you? "
 
 age = gets.chomp
 
-print "How tall are you? "
+p "How tall are you? "
 
 height = gets.chomp
 
-print "How much do you weigh? "
+p "How much do you weigh? "
 
 weight = gets.chomp
 

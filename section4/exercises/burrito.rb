@@ -12,7 +12,7 @@ class Burrito
     @toppings = toppings
   end
   def add_topping(topping)
-  toppings.push(topping)
+    toppings.push(topping)
   end
   def remove_topping(topping)
     toppings.delete(topping)
